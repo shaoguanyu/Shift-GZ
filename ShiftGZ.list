@@ -11,14 +11,9 @@ DOMAIN-SUFFIX,t66y.cn
 DOMAIN-SUFFIX,avfan.com
 DOMAIN-SUFFIX,avfan.cn
 DOMAIN-SUFFIX,avfan.xyz
-DOMAIN-SUFFIX,madouqu9.com
-DOMAIN-SUFFIX,madouqu9.cn
-DOMAIN-SUFFIX,madouqu9.xyz
-DOMAIN-SUFFIX,madouqu6.com
+DOMAIN-SUFFIX,madouqu.com
 DOMAIN-SUFFIX,madouqu.cn
 DOMAIN-SUFFIX,madouqu.xyz
-DOMAIN-SUFFIX,madouqu7.xyz
-DOMAIN-SUFFIX,madouqu9.xyz
 DOMAIN-SUFFIX,pickpackapp.com
 DOMAIN-SUFFIX,imagehaha.com
 DOMAIN-SUFFIX,11img.com
@@ -29,8 +24,6 @@ DOMAIN-KEYWORD,mypikpak
 DOMAIN-KEYWORD,t66y
 DOMAIN-KEYWORD,avfan
 DOMAIN-KEYWORD,madouqu
-DOMAIN-KEYWORD,madouqu7
-DOMAIN-KEYWORD,madouqu9
 DOMAIN-KEYWORD,pickpackapp
 
 
@@ -53,6 +46,7 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
+
 
 
 
